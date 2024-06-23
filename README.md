@@ -28,7 +28,7 @@ Description: An application to manage any local vendor to put an E-Commerce Stor
 
 ## GitHub Stats
 
-![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darshan25503&show_icons=true&theme=radical)
+![Darshan25503's Stats](https://github-readme-stats.vercel.app/api?username=Darshan25503&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## Top Languages
 
