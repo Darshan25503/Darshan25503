@@ -1,41 +1,40 @@
-# Hi there, I'm John Doe 👋
+# Hi there, I'm Darshan Bhensdadia 👋
 
-Welcome to my GitHub profile! I'm a Software Developer, passionate about open-source software and cloud technologies.
+Welcome to my GitHub profile! I'm a Software Developer, passionate about open-source software and full stack technologies.
 
 ## About Me
 
-- 🌱 I’m currently learning Rust and AWS
-- 👯 I’m looking to collaborate on open-source projects related to DevOps
+- 🌱 I’m currently learning MERN and Next.js
+- 👯 I’m looking to collaborate on open-source projects related to JavaScript and it's Frameworks
 - 🤔 I’m looking for help with Kubernetes
-- 💬 Ask me about Python and Docker
-- 📫 How to reach me: [john.doe@example.com](mailto:john.doe@example.com)
+- 💬 Ask me about JavaScript and Tailwind
+- 📫 How to reach me: [darshan25503@gmail.com](mailto:darshan25503@gmail.com)
 - ⚡ Fun fact: I love hiking and outdoor adventures
 
 ## Skills and Technologies
 
-- **Languages**: Python, JavaScript, Rust, C++
-- **Frameworks**: React, Node.js, Django
-- **Tools**: Git, Docker, Kubernetes
-- **Databases**: MySQL, MongoDB, PostgreSQL
+- **Languages**: C, JavaScript, Java, C++
+- **Frameworks**: React, Node.js, Next.js
+- **Tools**: Git, Postman, Cloudinary
+- **Databases**: MySQL, MongoDB
 
 ## Projects
 
-### [Awesome Project](https://github.com/johndoe/awesome-project)
-Description: A tool to automate tasks and improve productivity.
+### [Udaan24 System](https://github.com/Darshan25503/Backend-Udaan24)
+Description: A System helping manage college events with various functionalities like QR based attendence, QR based cultural nights entry, Voting System with 2000+ live users.
 
-### [Another Cool Project](https://github.com/johndoe/another-cool-project)
-Description: An application to manage personal finance efficiently.
+### [E-Commerce Using MERN Stack](https://github.com/Darshan25503/SnowBiz)
+Description: An application to manage any local vendor to put an E-Commerce Store with functionality of CRUD on Category and Products, Payment Gateway etc.
 
 ## GitHub Stats
 
-![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
+![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darshan25503&show_icons=true&theme=radical)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johndoe&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan25503&layout=compact&theme=radical)
 
 ## Contact
 
-- LinkedIn: [John Doe](https://www.linkedin.com/in/johndoe)
-- Twitter: [@JohnDoe](https://twitter.com/johndoe)
-- Email: [john.doe@example.com](mailto:john.doe@example.com)
+- LinkedIn: [Darshan Bhensdadia](https://www.linkedin.com/in/darshan-bhensdadia-4070b9236/)
+
