@@ -32,7 +32,7 @@ Description: An application to manage any local vendor to put an E-Commerce Stor
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan25503&layout=compact&theme=radical)
+![Top Languages](![Darshan25503's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan25503&theme=vue-dark&show_icons=true&hide_border=true&layout=compact))
 
 ## Contact
 
